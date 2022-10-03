@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+    max-width : 500px;
+    margin : 0 auto;
+
+}
+header{
+    display: flex;
+    padding: 5px;
+    color: #efefef;
+    background-color: #2d2d2d;
+    border-bottom: solid 1pc #000;
+}
+main{
+    flex: 1;
+}
